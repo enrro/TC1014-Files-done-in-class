@@ -1,0 +1,12 @@
+from Tkinter import*
+
+ventana = Tk()
+lienzo = Canvas (ventana, width = 400, height = 400)
+lienzo.pack()
+
+lienzo.create_oval(50,25,150,75, fill = "orange")
+lienzo.create_oval(65,40,75,50, fill= "grey")
+lienzo.create_line(150, 50, 175, 75, fill= "black")
+lienzo.create_line(150, 50, 175, 25, fill= "black")
+lienzo.create_line(175, 75, 175, 25, fill= "black")
+mainloop()

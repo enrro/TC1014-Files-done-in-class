@@ -1,0 +1,11 @@
+Original Interactive Story
+
+You must use methods/function
+
+ 
+
+3 decisions (if you make the wrong choice is the end of the game)
+
+3 decisions (different path according to the decision)
+
+2 questions (you have to answer right to move on)

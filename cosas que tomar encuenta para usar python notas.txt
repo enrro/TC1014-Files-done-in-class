@@ -1,0 +1,2 @@
+para usar los caracteres especiales debes de usar la siguiente linea en los archivos que los necesiten en la primera o segunda linea
+# -*- encoding: utf-8 -*-
